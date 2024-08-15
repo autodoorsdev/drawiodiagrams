@@ -44,10 +44,10 @@
           <mxGeometry x="-400" y="386" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="uZHWdwqBzNDXaLBIzFla-16" value="iPOS Terminal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="449" width="59.5" height="40" as="geometry" />
+          <mxGeometry x="-369.75" y="449" width="59.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uZHWdwqBzNDXaLBIzFla-18" value="Accessories" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-405.88" y="514" width="71.25" height="45" as="geometry" />
+          <mxGeometry x="-375.62" y="514" width="71.25" height="45" as="geometry" />
         </mxCell>
         <mxCell id="uZHWdwqBzNDXaLBIzFla-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uZHWdwqBzNDXaLBIzFla-18" target="uZHWdwqBzNDXaLBIzFla-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -55,7 +55,7 @@
             <mxPoint x="-541" y="434" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uZHWdwqBzNDXaLBIzFla-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uZHWdwqBzNDXaLBIzFla-16" target="uZHWdwqBzNDXaLBIzFla-15">
+        <mxCell id="uZHWdwqBzNDXaLBIzFla-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uZHWdwqBzNDXaLBIzFla-16" target="uZHWdwqBzNDXaLBIzFla-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-542" y="461" as="sourcePoint" />
             <mxPoint x="-541" y="434" as="targetPoint" />
